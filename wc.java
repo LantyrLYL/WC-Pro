@@ -1,4 +1,4 @@
-//Êä³öº¯Êý
+//è¾“å‡ºå‡½æ•°
 void output(ArrayList<WordInfo> handleList)
 {
 	PrintWriter writer=null;
@@ -16,7 +16,7 @@ void output(ArrayList<WordInfo> handleList)
 }
 
 
-//°×ºÐ²âÊÔ
+//æµ‹è¯•
 public class word extends TestCase{
 	
 	public TxtFile txtFile;
